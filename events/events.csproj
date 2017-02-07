@@ -51,8 +51,16 @@
       <HintPath>..\packages\SharpZipLib.0.86.0\lib\20\ICSharpCode.SharpZipLib.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Kamsar.WebConsole, Version=1.2.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Kamsar.WebConsole.1.2.2.0\lib\net40\Kamsar.WebConsole.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Lucene.Net, Version=3.0.3.0, Culture=neutral, PublicKeyToken=85089178b9ac3181, processorArchitecture=MSIL">
       <HintPath>..\packages\Lucene.Net.3.0.3\lib\NET40\Lucene.Net.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MicroCHAP, Version=1.2.2.2, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MicroCHAP.1.2.2.2\lib\net45\MicroCHAP.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
@@ -70,6 +78,18 @@
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\packages\Newtonsoft.Json.6.0.8\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Rainbow, Version=1.4.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Core.1.4.1\lib\net452\Rainbow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Rainbow.Storage.Sc, Version=1.4.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Storage.Sc.1.4.1\lib\net452\Rainbow.Storage.Sc.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Rainbow.Storage.Yaml, Version=1.4.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Rainbow.Storage.Yaml.1.4.1\lib\net452\Rainbow.Storage.Yaml.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="RazorGenerator.Mvc, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
@@ -169,6 +189,10 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
+    <Reference Include="Unicorn, Version=3.3.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Unicorn.Core.3.3.2\lib\net452\Unicorn.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="WebActivatorEx, Version=2.0.0.0, Culture=neutral, PublicKeyToken=7b26dc2a43f6a0d4, processorArchitecture=MSIL">
       <HintPath>..\packages\WebActivatorEx.2.0.3\lib\net40\WebActivatorEx.dll</HintPath>
       <Private>True</Private>
@@ -203,19 +227,134 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Css\addition.css" />
+    <Content Include="Css\bower_components\bootstrap-sass\assets\fonts\bootstrap\glyphicons-halflings-regular.svg" />
+    <Content Include="Css\bower_components\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Css\Difficulty.css" />
+    <Content Include="Css\font-awesome.min.css" />
+    <Content Include="Css\niteflight.min.css" />
+    <Content Include="Css\vendor.min.css" />
+    <Content Include="fonts\bitter-v7-latin-700.svg" />
+    <Content Include="fonts\bitter-v7-latin-italic.svg" />
+    <Content Include="fonts\bitter-v7-latin-regular.svg" />
+    <Content Include="fonts\fontawesome-webfont.svg" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\open-sans-v13-latin-300.svg" />
+    <Content Include="fonts\open-sans-v13-latin-300italic.svg" />
+    <Content Include="fonts\open-sans-v13-latin-600.svg" />
+    <Content Include="fonts\open-sans-v13-latin-600italic.svg" />
+    <Content Include="fonts\open-sans-v13-latin-700.svg" />
+    <Content Include="fonts\open-sans-v13-latin-700italic.svg" />
+    <Content Include="fonts\open-sans-v13-latin-800.svg" />
+    <Content Include="fonts\open-sans-v13-latin-italic.svg" />
+    <Content Include="fonts\open-sans-v13-latin-regular.svg" />
     <Content Include="Global.asax" />
+    <Content Include="Images\carousel-climbing.jpg" />
+    <Content Include="Images\carousel-cycling.jpg" />
+    <Content Include="Images\carousel-hiking.jpg" />
+    <Content Include="Images\carousel-skiing.jpg" />
+    <Content Include="Images\climbing-events.jpg" />
+    <Content Include="Images\Climbing-the-Face-of-Half-Dome.jpg" />
+    <Content Include="Images\cycling-events.jpg" />
+    <Content Include="Images\Cycling-from-Bangkok-to-Chiang-Mai.jpg" />
+    <Content Include="Images\hiking-events.jpg" />
+    <Content Include="Images\Hiking-the-Italian-Alps.jpg" />
+    <Content Include="Images\Logo_400x60.png" />
+    <Content Include="Images\Rock-Climbing-in-the-Czech-Republic.jpg" />
+    <Content Include="Images\skiing-events.jpg" />
+    <Content Include="Images\Skiing-the-Himalayas.jpg" />
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Config\" />
     <Folder Include="App_Data\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Scripts\Navigation.js" />
+    <Content Include="Scripts\Sitecore.Foundation.Theming.min.js" />
     <Content Include="Web.config" />
     <Content Include="Views\Web.config" />
     <Content Include="Views\Main.cshtml" />
+    <Content Include="App_Config\Include\Rainbow.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.zSharedSecret.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.UI.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Remote.config.disabled" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Deployed.config.disabled" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.DataProvider.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.CustomSerializationFolder.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.NewItemsOnly.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Dependency.config.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.Configs.Default.example" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.config" />
+    <Content Include="App_Config\Include\Unicorn\Unicorn.AutoPublish.config" />
+    <Content Include="App_Config\Include\Unicorn.Configs.Default.config" />
+    <Content Include="Css\bower_components\bootstrap-sass\assets\fonts\bootstrap\glyphicons-halflings-regular.eot" />
+    <Content Include="Css\bower_components\bootstrap-sass\assets\fonts\bootstrap\glyphicons-halflings-regular.ttf" />
+    <Content Include="Css\bower_components\bootstrap-sass\assets\fonts\bootstrap\glyphicons-halflings-regular.woff" />
+    <Content Include="Css\bower_components\bootstrap-sass\assets\fonts\bootstrap\glyphicons-halflings-regular.woff2" />
+    <Content Include="Css\bower_components\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Css\bower_components\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Css\bower_components\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Css\bower_components\font-awesome\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Css\bower_components\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="fonts\bitter-v7-latin-700.eot" />
+    <Content Include="fonts\bitter-v7-latin-700.ttf" />
+    <Content Include="fonts\bitter-v7-latin-700.woff" />
+    <Content Include="fonts\bitter-v7-latin-700.woff2" />
+    <Content Include="fonts\bitter-v7-latin-italic.eot" />
+    <Content Include="fonts\bitter-v7-latin-italic.ttf" />
+    <Content Include="fonts\bitter-v7-latin-italic.woff" />
+    <Content Include="fonts\bitter-v7-latin-italic.woff2" />
+    <Content Include="fonts\bitter-v7-latin-regular.eot" />
+    <Content Include="fonts\bitter-v7-latin-regular.ttf" />
+    <Content Include="fonts\bitter-v7-latin-regular.woff" />
+    <Content Include="fonts\bitter-v7-latin-regular.woff2" />
+    <Content Include="fonts\fontawesome-webfont.eot" />
+    <Content Include="fonts\fontawesome-webfont.ttf" />
+    <Content Include="fonts\fontawesome-webfont.woff" />
+    <Content Include="fonts\fontawesome-webfont.woff2" />
+    <Content Include="fonts\FontAwesome.otf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-300.eot" />
+    <Content Include="fonts\open-sans-v13-latin-300.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-300.woff" />
+    <Content Include="fonts\open-sans-v13-latin-300.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-300italic.eot" />
+    <Content Include="fonts\open-sans-v13-latin-300italic.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-300italic.woff" />
+    <Content Include="fonts\open-sans-v13-latin-300italic.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-600.eot" />
+    <Content Include="fonts\open-sans-v13-latin-600.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-600.woff" />
+    <Content Include="fonts\open-sans-v13-latin-600.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-600italic.eot" />
+    <Content Include="fonts\open-sans-v13-latin-600italic.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-600italic.woff" />
+    <Content Include="fonts\open-sans-v13-latin-600italic.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-700.eot" />
+    <Content Include="fonts\open-sans-v13-latin-700.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-700.woff" />
+    <Content Include="fonts\open-sans-v13-latin-700.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-700italic.eot" />
+    <Content Include="fonts\open-sans-v13-latin-700italic.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-700italic.woff" />
+    <Content Include="fonts\open-sans-v13-latin-700italic.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-800.eot" />
+    <Content Include="fonts\open-sans-v13-latin-800.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-800.woff" />
+    <Content Include="fonts\open-sans-v13-latin-800.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-italic.eot" />
+    <Content Include="fonts\open-sans-v13-latin-italic.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-italic.woff" />
+    <Content Include="fonts\open-sans-v13-latin-italic.woff2" />
+    <Content Include="fonts\open-sans-v13-latin-regular.eot" />
+    <Content Include="fonts\open-sans-v13-latin-regular.ttf" />
+    <Content Include="fonts\open-sans-v13-latin-regular.woff" />
+    <Content Include="fonts\open-sans-v13-latin-regular.woff2" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
