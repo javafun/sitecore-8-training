@@ -122,7 +122,7 @@
     </Reference>
     <Reference Include="Sitecore.Kernel, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sitecore.Kernel.8.2.160729\lib\NET452\Sitecore.Kernel.dll</HintPath>
-      <Private>True</Private>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Logging, Version=10.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Sitecore.Logging.8.2.160729\lib\NET452\Sitecore.Logging.dll</HintPath>
@@ -355,6 +355,7 @@
     <Content Include="fonts\open-sans-v13-latin-regular.ttf" />
     <Content Include="fonts\open-sans-v13-latin-regular.woff" />
     <Content Include="fonts\open-sans-v13-latin-regular.woff2" />
+    <Content Include="App_Config\Include\zzz\EventsSiteDefinition.config" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
