@@ -224,6 +224,8 @@
   <ItemGroup>
     <Compile Include="App_Start\RazorGeneratorMvcStart.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\EventIntroController.cs" />
+    <Compile Include="Models\EventIntro.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -268,14 +270,14 @@
   <ItemGroup>
     <Folder Include="App_Config\Prefetch\" />
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
-    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\Navigation.js" />
     <Content Include="Scripts\Sitecore.Foundation.Theming.min.js" />
     <Content Include="Web.config" />
-    <Content Include="Views\Web.config" />
+    <Content Include="Views\Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Views\Main.cshtml" />
     <Content Include="App_Config\Include\Rainbow.config" />
     <Content Include="App_Config\Include\Unicorn\Unicorn.zSharedSecret.config.example" />
@@ -361,6 +363,14 @@
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <Content Include="Views\TAC\Events\Layouts\Home.cshtml" />
     <Content Include="Views\TAC\Events\Layouts\Events.cshtml" />
+    <Content Include="Views\_ViewStart.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\EventIntro\Index.cshtml" />
+    <Content Include="Views\TAC\Events\HomeContent.cshtml" />
+    <Content Include="Views\TAC\Events\SiteContent.cshtml" />
+    <Content Include="Views\TAC\Events\PageContent.cshtml" />
+    <Content Include="Views\TAC\Events\One-Column.cshtml" />
+    <Content Include="Views\TAC\Events\Two-Column.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
