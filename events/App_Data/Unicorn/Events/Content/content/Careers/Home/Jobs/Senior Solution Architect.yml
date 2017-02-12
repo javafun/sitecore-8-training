@@ -1,0 +1,61 @@
+﻿---
+ID: "646e3104-8213-46ae-9d83-9f472e1b7164"
+Parent: "b8f40edb-a130-44a3-8275-6ca9c00d09a8"
+Template: "51c41ff7-ea33-4882-8c6d-4adcb2927624"
+Path: /sitecore/content/Careers/Home/Jobs/Senior Solution Architect
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "022ac3d2-5a86-4ca6-9213-7d612e2b5573"
+      Hint: JobRequirements
+      Value: |
+        <ul>
+            <li>Excellent communication skills, both written and oral</li>
+            <li>3+ years hands on experience with Sitecore implementations in a professional services capacity</li>
+            <li>A self-starter that is easily motivated by a challenge</li>
+            <li>Experience implementing an e-Commerce solution</li>
+            <li>Experience with large scale, enterprise, commerce web solutions</li>
+            <li>Experience with Microsoft based products (AX Retail 2012 R3, OS, IIS, MSSQL, ASP.NET)</li>
+        </ul>
+    - ID: "05cf017b-51b6-45a0-a450-4acb4660197d"
+      Hint: JobLocation
+      Value: "{BD7B26DA-B9B0-4D25-86D4-110C2935C9B9}"
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Senior Solution Architect
+    - ID: "177109fc-dbf4-463b-9bd6-da70229ecfe8"
+      Hint: JobImage
+      Value: |
+        <image mediaid="{839D713F-68A5-4C22-8AA5-404A5474FEC3}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T064323Z
+    - ID: "54dfc0b6-b74c-4d09-9aea-041ec73f7707"
+      Hint: JobType
+      Value: Senior
+    - ID: "6ab86939-c29f-4035-abff-ac0a0d473986"
+      Hint: JobHours
+      Value: "{B817E123-9974-432F-B237-40B76B32E660}"
+    - ID: "6d79bf70-a888-46f8-ac0b-eed001df205f"
+      Hint: JobRelated
+      Type: Multilist
+      Value: |
+        {59CECCBD-2644-4AA7-9AD2-DF279508F658}
+        {7FAC4013-7B16-4C94-BDC5-7E328ADDE656}
+        {7EC4EDDA-F189-41D4-9C41-4FFA7712ABFF}
+    - ID: "7790ef56-b7d8-4559-b3b5-5388ab04f639"
+      Hint: ContentBody
+      Value: As a Senior Solution Architect, you will generate documented service offerings for Sitecore&rsquo;s .NET Technical Consultants to deliver globally. You will be responsible for providing consulting and mentoring to the Adventure Company regional offices on development and configuration recommended practices and performance related service offerings. &nbsp;You will also be expected to take leadership role in a project team and to provide technical expertise for challenging proof of concepts and sales engagements.
+    - ID: "ae97d6d0-6bc0-4395-b623-4dbd705c3c18"
+      Hint: ContentIntro
+      Value: "The Adventure Company is looking for a professional with a solid background in Sitecore Commerce, Web development expertise, and experience in IT (.NET) architecture, The candidate is motivated, highly technical, and service-oriented with a sense of ownership from concept to completion."
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Senior Solution Architect

@@ -1,0 +1,27 @@
+﻿---
+ID: "1c362430-3609-402e-a15e-aa00bb3fb274"
+Parent: "8a9178cc-c4f3-49be-b054-d4b40f3efbec"
+Template: "a3746154-d2be-4d9f-95de-2c5d75faf48a"
+Path: /sitecore/content/Careers/Home/Privacy Policy
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Privacy Policy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160428T140810Z
+    - ID: "7790ef56-b7d8-4559-b3b5-5388ab04f639"
+      Hint: ContentBody
+      Value: |
+        <ul style="margin-top: 0px; margin-bottom: 10px;">
+            <li>We will not sell your personal information that you give to us, including your email, and will only use it for internal purposes.</li>
+            <li>We place various cookies on your browser to understand how you&rsquo;re using the Sitecore Website and how we can then provide you with experiences and offers that align with your needs. Some of the cookies are for third parties that help us advertise and measure the impact of our advertising, which allows us to spend our marketing money thoughtfully. If you don&rsquo;t like cookies, then please do not browse the Sitecore Website.</li>
+        </ul>
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Privacy Policy

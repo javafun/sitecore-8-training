@@ -1,0 +1,19 @@
+﻿---
+ID: "44a0b79e-b786-4cdc-878b-19ce67f1c0a9"
+Parent: "e1e32720-853a-4965-a645-9437170c389f"
+Template: "e1e32720-853a-4965-a645-9437170c389f"
+Path: /sitecore/templates/TAC/Events/Event List/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{BF3D0D81-5DB1-461C-A6D3-AEDA7D31F31B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T010236Z

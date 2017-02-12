@@ -1,0 +1,14 @@
+﻿---
+ID: "b817e123-9974-432f-b237-40b76b32e660"
+Parent: "b8ee2700-f09a-4d89-b49d-d03b7ede9ebc"
+Template: "37953c02-9667-493f-8d49-afe1eee322a0"
+Path: /sitecore/content/Careers/Repository/Hours/Full time
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160503T182130Z

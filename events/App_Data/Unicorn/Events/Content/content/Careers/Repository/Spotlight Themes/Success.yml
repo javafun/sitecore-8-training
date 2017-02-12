@@ -1,0 +1,17 @@
+﻿---
+ID: "c8e40a5f-00db-4251-9b4a-dbc57785b38b"
+Parent: "0f56aba7-7950-4087-a1d0-ff63f5263ccd"
+Template: "e78d0287-4554-49ac-ae9b-43f303d524e6"
+Path: /sitecore/content/Careers/Repository/Spotlight Themes/Success
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160428T175918Z
+    - ID: "ba8a2082-696a-4b99-8fd2-413b39a821af"
+      Hint: Class
+      Value: "bg-sucess"

@@ -1,0 +1,61 @@
+﻿---
+ID: "4c1797ed-5a73-4685-8152-6d0b2255cdd8"
+Parent: "b8f40edb-a130-44a3-8275-6ca9c00d09a8"
+Template: "51c41ff7-ea33-4882-8c6d-4adcb2927624"
+Path: /sitecore/content/Careers/Home/Jobs/Sales Support
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "022ac3d2-5a86-4ca6-9213-7d612e2b5573"
+      Hint: JobRequirements
+      Value: |
+        <ul>
+            <li>A Bachelor&acute;s degree is preferred</li>
+            <li>3-5 years industry or equivalent sales operations experience, alternatively your previous experience emanates from procurement</li>
+            <li>Strong organizational and time-management skills including multi-tasking, prioritizing and the ability to plan work activities efficiently to meet deadlines</li>
+            <li>Creative thinking with problem solving capability</li>
+            <li>Proven ability to work effectively in a fast-paced, cross functional, and sometimes highly pressured environment</li>
+            <li>Be strong in database-oriented software</li>
+        </ul>
+    - ID: "05cf017b-51b6-45a0-a450-4acb4660197d"
+      Hint: JobLocation
+      Value: "{3F1A276A-9A73-4BB1-9E01-4A4B2E28941B}"
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Sales Support
+    - ID: "177109fc-dbf4-463b-9bd6-da70229ecfe8"
+      Hint: JobImage
+      Value: |
+        <image mediaid="{48C6CB0A-7760-479C-8DF3-0AD4A16BBAB0}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T064311Z
+    - ID: "54dfc0b6-b74c-4d09-9aea-041ec73f7707"
+      Hint: JobType
+      Value: Medior
+    - ID: "6ab86939-c29f-4035-abff-ac0a0d473986"
+      Hint: JobHours
+      Value: "{31B4A43C-02FD-4B3B-A769-4D9E742EF620}"
+    - ID: "6d79bf70-a888-46f8-ac0b-eed001df205f"
+      Hint: JobRelated
+      Type: Multilist
+      Value: "{48FA7F35-C3C1-43CF-A7F9-A3E49F3CE7EB}"
+    - ID: "7790ef56-b7d8-4559-b3b5-5388ab04f639"
+      Hint: ContentBody
+      Value: You will be responsible for supporting sellers &amp; the sales operations to ensure complete order management and ensure contract management by checking for divergences in what is sold and what is registered. &nbsp;You will be involved in the Invoicing process through LOS via Finance and you will &nbsp;support account managers on uplifts as well as overall administrative support for the regions. This position is expected to expand into a full time.
+    - ID: "ae97d6d0-6bc0-4395-b623-4dbd705c3c18"
+      Hint: ContentIntro
+      Value: "The Sales Support team member is an expert in contract processing, and will team up with the global team for ensuring best practice and knowledge sharing in order to provide world-class sales support."
+    - ID: "cead6260-805b-459d-8936-b9894aa60dd6"
+      Hint: JobTravel
+      Value: "30% - 50%"
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Sales Support

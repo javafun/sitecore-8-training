@@ -1,0 +1,18 @@
+﻿---
+ID: "7ec99ab9-88ff-47fc-93bd-591643e01bf7"
+Parent: "570f28fc-354e-4b5b-8ac2-c7d20cbb0ab4"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/TAC/Common/Base/Base Content Body/Content/ContentBody
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Rich Text
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170207T124949Z

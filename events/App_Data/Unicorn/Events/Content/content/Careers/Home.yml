@@ -1,0 +1,82 @@
+﻿---
+ID: "8a9178cc-c4f3-49be-b054-d4b40f3efbec"
+Parent: "8a6a3e4e-b189-4a61-9840-fc24e8257b5d"
+Template: "c1177c0b-769b-4b86-ad27-265782df7a7f"
+Path: /sitecore/content/Careers/Home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{100EDA93-7F1A-43F8-A314-BD1FB2828F67}">
+          <p:d />
+        </r>
+        <r
+          uid="{6B646DCB-56B6-4FB8-85AC-98EBAE9E1B57}">
+          <p:d />
+        </r>
+        <r
+          uid="{9E32FB9A-E0BE-4334-A558-54A6157B4A38}">
+          <p:d />
+        </r>
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{100EDA93-7F1A-43F8-A314-BD1FB2828F67}"
+              p:before="*"
+              s:ds="{B8F40EDB-A130-44A3-8275-6CA9C00D09A8}"
+              s:id="{E2E3E44E-A330-4094-8A80-200A9736C593}"
+              s:par=""
+              s:ph="/mainContent/columnContent" />
+            <r
+              uid="{6B646DCB-56B6-4FB8-85AC-98EBAE9E1B57}"
+              p:after="r[@uid='{100EDA93-7F1A-43F8-A314-BD1FB2828F67}']"
+              s:ds="{7EC4EDDA-F189-41D4-9C41-4FFA7712ABFF}"
+              s:id="{AC2A2F97-74E2-46C8-917B-24AB8E699E55}"
+              s:par="Title&amp;Appearance=%7BE3047EE9-38E0-4E8F-AAB3-54014EDF64A4%7D"
+              s:ph="/mainContent/columnRight" />
+            <r
+              uid="{9E32FB9A-E0BE-4334-A558-54A6157B4A38}"
+              p:after="r[@uid='{6B646DCB-56B6-4FB8-85AC-98EBAE9E1B57}']"
+              s:id="{37D1B2F2-5521-4E3C-9E22-AC6F17783A84}"
+              s:ph="mainContent" />
+          </d>
+        </r>
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Careers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160425T114657Z
+    - ID: "316d090c-0128-4c15-ae3e-0b7ac6423197"
+      Hint: DecorationBanner
+      Value: |
+        <image mediaid="{1CBD0EE7-0CD5-4A8B-8626-EDB0F0599A5F}" alt="Man and woman looking at a tablet" height="" width="" hspace="" vspace="" />
+    - ID: "a8e32d2f-a27a-410a-b352-8c8f387e4534"
+      Hint: FooterText
+      Value: "{C40EA54D-3DC6-4064-A40A-E0A63061231E}"
+    - ID: "ae97d6d0-6bc0-4395-b623-4dbd705c3c18"
+      Hint: ContentIntro
+      Value: "At the Adventure Company, we value dynamic, trustworthy people to represent our organization, and engage our members at every touchpoint. We offer world-class tours that inspire our members to contribute to making our planet a better place."
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Jobs at the Adventure Company

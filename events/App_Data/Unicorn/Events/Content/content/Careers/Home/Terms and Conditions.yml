@@ -1,0 +1,20 @@
+﻿---
+ID: "e6bcf73e-86e1-4f4f-84cc-209a0d75b0f3"
+Parent: "8a9178cc-c4f3-49be-b054-d4b40f3efbec"
+Template: "a3746154-d2be-4d9f-95de-2c5d75faf48a"
+Path: /sitecore/content/Careers/Home/Terms and Conditions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Terms and Conditions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160428T140831Z
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Terms and Conditions

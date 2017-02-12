@@ -1,0 +1,27 @@
+﻿---
+ID: "b8f40edb-a130-44a3-8275-6ca9c00d09a8"
+Parent: "8a9178cc-c4f3-49be-b054-d4b40f3efbec"
+Template: "f6d2e070-048a-4be3-bc57-9d950f0b3410"
+Path: /sitecore/content/Careers/Home/Jobs
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{51C41FF7-EA33-4882-8C6D-4ADCB2927624}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160425T115022Z
+    - ID: "25d57132-8ba2-4b84-a218-04ef4b7473d1"
+      Hint: ExcludeFromNavigation
+      Type: Checkbox
+      Value: 1

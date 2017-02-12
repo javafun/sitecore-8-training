@@ -236,6 +236,7 @@
     <Content Include="Css\font-awesome.min.css" />
     <Content Include="Css\niteflight.min.css" />
     <Content Include="Css\vendor.min.css" />
+    <Content Include="data\license.xml" />
     <Content Include="fonts\bitter-v7-latin-700.svg" />
     <Content Include="fonts\bitter-v7-latin-italic.svg" />
     <Content Include="fonts\bitter-v7-latin-regular.svg" />
@@ -360,6 +361,8 @@
     <Content Include="fonts\open-sans-v13-latin-regular.woff2" />
     <Content Include="App_Config\Include\zzz\EventsSiteDefinition.config" />
     <Content Include="App_Config\Include\zzz\DataFolder.config" />
+    <Content Include="App_Config\Include\zzz\zDeveloper.config" />
+    <Content Include="events.wpp.targets" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <Content Include="Views\TAC\Events\Layouts\Home.cshtml" />
     <Content Include="Views\TAC\Events\Layouts\Events.cshtml" />

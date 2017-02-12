@@ -1,0 +1,14 @@
+﻿---
+ID: "70f7fee4-67dc-4114-a5f2-bfd4a9c5dfea"
+Parent: "c2913dfa-d67f-4ce0-a17c-b859e75d2d79"
+Template: "37953c02-9667-493f-8d49-afe1eee322a0"
+Path: /sitecore/content/Careers/Repository/JobTypes/Medior
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T065030Z

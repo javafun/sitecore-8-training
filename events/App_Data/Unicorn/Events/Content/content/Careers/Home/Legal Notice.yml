@@ -1,0 +1,23 @@
+﻿---
+ID: "3cc9e9ab-d4fc-4663-ac4c-bb2c99b1673a"
+Parent: "8a9178cc-c4f3-49be-b054-d4b40f3efbec"
+Template: "a3746154-d2be-4d9f-95de-2c5d75faf48a"
+Path: /sitecore/content/Careers/Home/Legal Notice
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Legal Notice
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160425T133352Z
+    - ID: "7790ef56-b7d8-4559-b3b5-5388ab04f639"
+      Hint: ContentBody
+      Value: This site is solely for training and demonstration purposes. Any content used or marks identified have no relationship with products or services offered by the respective owners of such intellectual property.
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Legal Notice

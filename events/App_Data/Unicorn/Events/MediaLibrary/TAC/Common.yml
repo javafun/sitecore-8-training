@@ -1,0 +1,14 @@
+﻿---
+ID: "6c2de6e4-c5e5-421f-a7fc-6409d377aa6c"
+Parent: "cea92772-67ce-4239-a354-454952b90a43"
+Template: "239f9cf4-e5a0-44e0-b342-0f32cd4c6d8b"
+Path: /sitecore/media library/TAC/Common
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170207T102921Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "6298eda6-7f7f-48f9-8a3d-945108ab40f2"
+Parent: "c2913dfa-d67f-4ce0-a17c-b859e75d2d79"
+Template: "37953c02-9667-493f-8d49-afe1eee322a0"
+Path: /sitecore/content/Careers/Repository/JobTypes/Internship
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160510T065009Z

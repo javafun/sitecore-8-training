@@ -1,0 +1,20 @@
+﻿---
+ID: "c40ea54d-3dc6-4064-a40a-e0a63061231e"
+Parent: "da2f0a83-a19b-4e90-92ef-d3a7ca32527e"
+Template: "f9ce4319-4059-4a07-a606-629cd6bf2ebe"
+Path: /sitecore/content/Careers/Repository/Footer Texts/About Us
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: About Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160425T120904Z
+    - ID: "ae97d6d0-6bc0-4395-b623-4dbd705c3c18"
+      Hint: ContentIntro
+      Value: The Adventure Company is a nonprofit organization. In each location where we sponsor events, we carefully vet local conservation organizations so that our members have the opportunity to donate their money where it will do the most good on a local level.

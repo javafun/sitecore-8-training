@@ -1,0 +1,14 @@
+﻿---
+ID: "da2f0a83-a19b-4e90-92ef-d3a7ca32527e"
+Parent: "7a5b6e0e-1100-4021-8d7c-4d23a0c97496"
+Template: "92c37d00-4760-4eb0-b1f8-af5e95faa031"
+Path: /sitecore/content/Careers/Repository/Footer Texts
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160425T122338Z

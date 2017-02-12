@@ -1,0 +1,17 @@
+﻿---
+ID: "91d9fb13-1aca-4325-b2f2-7c1b5a7a9392"
+Parent: "bf3d0d81-5db1-461c-a6d3-aeda7d31f31b"
+Template: "bf3d0d81-5db1-461c-a6d3-aeda7d31f31b"
+Path: /sitecore/templates/TAC/Events/Event Details/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170209T114040Z
+    - ID: "e7c78778-7ffb-4c24-ac66-81e9703879ad"
+      Hint: Highlights
+      Value: List event highlights here...
