@@ -1,0 +1,20 @@
+﻿---
+ID: "26bae6bc-5b98-43ec-968a-de5e9cafeacc"
+Parent: "f7a3dc8a-e9b2-405f-8387-fa0c712bab4a"
+Template: "bf3d0d81-5db1-461c-a6d3-aeda7d31f31b"
+Path: /sitecore/content/Events/Home/Event List/Climbing/Nature Climb in the Adirondacks
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Nature Climb in the Adirondacks
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T045957Z
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Nature Climb in the Adirondacks

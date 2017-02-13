@@ -4,6 +4,33 @@ Parent: "bf3d0d81-5db1-461c-a6d3-aeda7d31f31b"
 Template: "bf3d0d81-5db1-461c-a6d3-aeda7d31f31b"
 Path: /sitecore/templates/TAC/Events/Event Details/__Standard Values
 DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r>
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{8F4303CD-8B38-4F23-BA02-DE01AD4A75FC}">
+        <r
+          id="{850EFE68-7A39-48E9-B03F-4071F97C4A76}"
+          ph="main"
+          uid="{D2E1F437-3076-4615-B572-BE46E3DA2BE8}" />
+        <r
+          id="{1E480922-BF24-46A8-820B-FDE0F72554B0}"
+          ph="pageSide"
+          uid="{5517350D-FA50-4238-B186-47DF29D6267A}" />
+        <r
+          id="{13CD117E-924D-49F5-B21C-A17DE3E30311}"
+          ph="pageContent"
+          uid="{B8DA7BCB-C7BE-4231-9850-0858559A52A7}" />
+        <r
+          id="{482884E3-95D4-41BD-86A9-188734371945}"
+          ph="pageContent"
+          uid="{116D1D2B-5F1B-409F-9FBB-93B243C2A541}" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:

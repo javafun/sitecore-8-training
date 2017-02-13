@@ -1,0 +1,28 @@
+﻿---
+ID: "f7a3dc8a-e9b2-405f-8387-fa0c712bab4a"
+Parent: "5571ec41-e89b-425e-b603-19d39fdbb668"
+Template: "e1e32720-853a-4965-a645-9437170c389f"
+Path: /sitecore/content/Events/Home/Event List/Climbing
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Climbing
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T020922Z
+    - ID: "648581f5-0b1b-40c7-ad1a-5991fb630da3"
+      Hint: RobotsFollow
+      Type: Checkbox
+      Value: 0
+    - ID: "68acbb05-02b9-451d-a85c-71074db5d8d7"
+      Hint: RobotsIndex
+      Type: Checkbox
+      Value: 0
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Climbing

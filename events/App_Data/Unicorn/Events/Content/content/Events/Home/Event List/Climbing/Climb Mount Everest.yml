@@ -1,0 +1,60 @@
+﻿---
+ID: "068ea242-4350-4934-bc64-076e821d5a50"
+Parent: "f7a3dc8a-e9b2-405f-8387-fa0c712bab4a"
+Template: "bf3d0d81-5db1-461c-a6d3-aeda7d31f31b"
+Path: /sitecore/content/Events/Home/Event List/Climbing/Climb Mount Everest
+DB: master
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: German Heading
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T074321Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1"
+          s:xsd="http://www.w3.org/2001/XMLSchema">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E982CE0F-921F-4241-AFA8-6E832B9CED43}"
+              p:before="*"
+              s:id="{19B266AA-1D31-44AF-AA98-40E224369C55}"
+              s:ph="/main/pageHeader" />
+          </d>
+        </r>
+    - ID: "0c647a4c-bb10-41c2-8d7e-5bc97effd0d2"
+      Hint: Duration
+      Value: 4
+    - ID: "1384a77f-8e0c-40ba-b628-3c5ed330dd86"
+      Hint: ContentHeading
+      Value: Climb Mount Everest
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170210T045922Z
+    - ID: "899225b7-75ea-4924-b5f5-27338cb227a4"
+      Hint: Event Image
+      Value: |
+        <image mediaid="{77DC5D43-7EF7-4348-915E-54E1AB3ED1F9}" />
+    - ID: "cc47a4f5-0648-4925-8ea5-ef0d7d53ba87"
+      Hint: Start Date
+      Value: 20170208T130000Z
+    - ID: "f35dacec-61a9-49c5-90bd-05e58f0c7727"
+      Hint: MetaTitle
+      Value: Climb Mount Everest
